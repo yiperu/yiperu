@@ -1,6 +1,6 @@
 ### Hi there, I'm Henry - aka [Henry AT][linkedin] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-## I'm a Student forever, I like learning constantly!
+## I'm a Student forever, I like to constantly learn!
 
 - 👨🏾‍💻 I’m currently working in [Everis](https://www.everis.com/global/en)!
 - 🤖 I’m currently learning Machine Learning
@@ -29,6 +29,21 @@
 
 ### Languages and Tools:
 
+[<code>
+<img alt="Apple" width="26px" src="https://img.icons8.com/ios-filled/50/000000/mac-os.png" />
+</code>](https://www.apple.com/)
+[<code>
+<img alt="Xcode" width="26px" src="https://img.icons8.com/nolan/64/xcode.png" />
+</code>](https://developer.apple.com/xcode/)
+[<code>
+<img alt="Swift" width="26px" src="https://img.icons8.com/color/48/000000/swift.png" />
+</code>](https://swift.org/)
+[<code>
+<img alt="Android" width="26px" src="https://img.icons8.com/color/48/000000/android-os.png" />
+</code>](https://www.android.com/)
+[<code>
+<img alt="Kotlin" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png" />
+</code>](https://kotlinlang.org/)
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
