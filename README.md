@@ -1,4 +1,4 @@
-# <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> Hi there, I'm Henry AT - aka [Henry AT][github] 
+# <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> Hi there, I'm Henry AT. 
 
 ### I'm a iOS and Android Developer, I'm Student forever, I like to constantly learn!
 
@@ -8,6 +8,13 @@
 - 🤖 I’m currently learning Machine Learning
 - 🎯 2021 Goals: Contribute more to Open Source projects
 - 🎮 Fun fact: I love to play video games and listen music.
+
+
+## Skills:
+
+![iOS](https://img.shields.io/badge/swift-orange?style=for-the-badge&logo=swift&logoColor=white&labelColor=black)</br>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
 
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
