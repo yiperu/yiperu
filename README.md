@@ -1,6 +1,8 @@
-### Hi there, I'm Henry - aka [Henry AT][linkedin] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+# <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> Hi there, I'm Henry AT - aka [Henry AT][github] 
 
-## I'm a Student forever, I like to constantly learn!
+### I'm a iOS and Android Developer, I'm Student forever, I like to constantly learn!
+
+![](./img/main_banner.jpg)
 
 - 👨🏾‍💻 I’m currently working in [Everis](https://www.everis.com/global/en)!
 - 🤖 I’m currently learning Machine Learning
@@ -120,3 +122,4 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 [gmail]: mailto:yiperu@gmail.com
 [twitter]: https://twitter.com/yiperu
 [skype]: https://join.skype.com/invite/yiperu
+[github]: https://github.com/yiperu
