@@ -9,6 +9,11 @@
 - 🎯 2021 Goals: Contribute more to Open Source projects
 - 🎮 Fun fact: I love to play video games and listen music.
 
+## Summary
+
+<div><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=yiperu&count_private=true&show_icons=true&theme=gruvbox" />
+</a></div>
 
 ## Skills:
 
